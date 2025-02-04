@@ -1,7 +1,7 @@
 Hello everyone 👋 I'm **Gisel Garrido** from Western Governors University taking BS Software Engineering. 
 
 I have a passion for all things technology. My interests 🔭 are **full stack** development and **UI** design. I am a freshman and still new to programming but I find it to be a very rewarding experience. 
-I know **Java** and aim to add Python and C++ to my skill set. I also look forward to continue expanding my knowledge within my field of study. 
+I know **Java** and **Python**. I aim to add C++ to my skill set. I also look forward to continue expanding my knowledge within my field of study. 
 
 Currently, I work in an unrelated field but I hope to get hands-on experience within the industry. 
 
