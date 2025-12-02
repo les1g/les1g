@@ -2,6 +2,11 @@
   <img src="hello.png" alt="Hi, I'm Gisel!" width="1000" height="500" />
 </p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=les1g.les1g" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Repos-48-f871c4?style=flat-square" alt="Repo Count" />
+  <img src="https://img.shields.io/badge/Commits%20this%20month-70-f871c4?style=flat-square" alt="Monthly Commits" />
+</p>
 
 
 <div align="center">
@@ -24,13 +29,13 @@
 I’m a Software Engineering student passionate about **clean architecture**, **scalable web design**, and **cloud-first solutions**.  
 I love experimenting with new tools, building maintainable workflows, and sharing what I learn along the way.  
 
-- Currently working on my personal portfolio website  
+- Currently working on my personal website  
 
 - Exploring data structures and algorithms 
 
 - Ask me anything about Minecraft redstone
 
-- Fun fact: My GitHub username is literally my name spelled backwards  
+- In case you did not notice, my username is my name spelled backwards  
 
 ---
 
@@ -82,6 +87,12 @@ I love experimenting with new tools, building maintainable workflows, and sharin
 
 ---
 
+### 🩷 Github Stats
+<img src="https://github-readme-stats-one-pied-48.vercel.app/api?username=les1g&show_icons=true&count_private=true&include_all_commits=true&theme=radical&title_color=f871c4&icon_color=f871c4" alt="Gisel's GitHub Stats" />
+<img src="https://github-readme-stats-one-pied-48.vercel.app/api/top-langs/?username=les1g&layout=compact&theme=radical&title_color=f871c4" alt="Gisel's Top Languages" />
+
+---
+
 ### 🩷 Let's Connect
 <a href="https://github.com/les1g" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/lesig_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -90,8 +101,4 @@ I love experimenting with new tools, building maintainable workflows, and sharin
 <a href="https://www.facebook.com/gisel.garrido.142370/" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 <a href="https://www.instagram.com/lesig_/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>  
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=les1g.les1g" alt="Profile Views" />
-
 <br/>
-
----
