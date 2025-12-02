@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Gisel!</h1>
+<p align="center">
+  <img src="hello.png" alt="Hi, I'm Gisel!" />
+</p>
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
