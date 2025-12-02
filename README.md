@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=les1g.les1g" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Repos-48-f871c4?style=flat-square" alt="Repo Count" />
-  <img src="https://img.shields.io/badge/Commits%20this%20month-70-f871c4?style=flat-square" alt="Monthly Commits" />
+  <img src="https://img.shields.io/badge/Commits%20this%20month-219-f871c4?style=flat-square" alt="Monthly Commits" />
 </p>
 
 
