@@ -93,7 +93,7 @@ I love experimenting with new tools, building maintainable workflows, and sharin
 
 ---
 
-### 🩷 Let's Connect
+### 🩷 Connect
 <a href="https://github.com/les1g" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://x.com/lesig_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://dev.to/les1g" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" /></a>
