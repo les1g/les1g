@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="hello.png" alt="Hi, I'm Gisel!" />
+  <img src="hello.png" alt="Hi, I'm Gisel!" width="1000" />
 </p>
+
 
 
 <div align="center">
