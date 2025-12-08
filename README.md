@@ -35,8 +35,6 @@ I love experimenting with new tools, building maintainable workflows, and sharin
 
 - Ask me anything about Minecraft redstone
 
-- In case you did not notice, my username is my name spelled backwards  
-
 ---
 
 ### 🩷 Skill Set
