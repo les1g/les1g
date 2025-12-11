@@ -26,10 +26,7 @@
 
 ### 🩷 About Me  
 
-I’m a Software Engineering student passionate about **clean architecture**, **scalable web design**, and **cloud-first solutions**.  
-I love experimenting with new tools, building maintainable workflows, and sharing what I learn along the way.  
-
-- Currently working on my personal website  
+- Currently working on personal projects + school assignments 
 
 - Exploring data structures and algorithms 
 
