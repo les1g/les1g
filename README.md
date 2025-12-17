@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=les1g.les1g" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Repos-48-f871c4?style=flat-square" alt="Repo Count" />
-  <img src="https://img.shields.io/badge/Commits%20this%20month-219-f871c4?style=flat-square" alt="Monthly Commits" />
+  <img src="https://komarev.com/ghpvc/?username=les1g&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Repos-48-blue?style=for-the-badge" alt="Repo Count" />
+  <img src="https://img.shields.io/badge/Commits%20this%20month-219-blue?style=for-the-badge" alt="Monthly Commits" />
 </p>
 
 
@@ -24,7 +24,7 @@
 
 ---
 
-### 🩷 About Me  
+### About Me ｡◕ ‿ ◕｡  
 
 - Currently working on personal projects + school assignments 
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 🩷 Skill Set
+### Skill Set (◡‿◡✿)
 
 <table><tr><td valign="top" width="33%">
 
@@ -97,18 +97,27 @@
 
 ---
 
-### 🩷 Github Stats
+### Github Stats ⊂◉‿◉つ
 <img src="https://github-readme-stats-one-pied-48.vercel.app/api?username=les1g&show_icons=true&count_private=true&include_all_commits=true&theme=radical&title_color=f871c4&icon_color=f871c4" alt="Gisel's GitHub Stats" />
 <img src="https://github-readme-stats-one-pied-48.vercel.app/api/top-langs/?username=les1g&layout=compact&theme=radical&title_color=f871c4" alt="Gisel's Top Languages" />
 
 ---
 
-### 🩷 Connect
-<a href="https://github.com/les1g" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://x.com/lesig_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-<a href="https://dev.to/les1g" target="_blank"><img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" /></a>
-<a href="https://www.linkedin.com/in/gisel-garrido/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.facebook.com/gisel.garrido.142370/" target="_blank"><img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="https://www.instagram.com/lesig_/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>  
+### Connect ☆(◒‿◒)☆
+<a href="https://github.com/les1g" target="_blank">
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/gisel-garrido/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://bsky.app/profile/les1g.bsky.social" target="_blank">
+  <img src="https://img.shields.io/badge/bluesky-%2300AEEF.svg?&style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+</a>
+<a href="https://dev.to/les1g" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" />
+</a>
+<a href="https://medium.com/@giselg40888" target="_blank">
+  <img src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
 
 <br/>
